@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Giao Dien Vat tu </string>
+    <string name="appname">Quan Ly Vat Tu</string>
+    <string name="thongtin">Vat Tu</string>
+    <string name="hoTen">Ten Vat Tu</string>
+    <string name="ma">Mã Vat Tu</string>
+    <string name="diachi">Xuat Xu</string>
+    <string name="chucnang">Chức Năng</string>
+    <string name="them">Thêm</string>
+    <string name="xoa">Xoa</string>
+    <string name="sua">Sua</string>
+    <string name="thoat">Thoát</string>
+    <string name="defect">Defect</string>
+    <string name="ds">Danh Sach Vat Tu</string>
+
+</resources>
